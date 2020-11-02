@@ -30,9 +30,6 @@
 
 class JoyStick {
 
-    static mouse = {x:null, y: null}
-    static touches = new Array();
-
     /**
      * @constructor
      */
